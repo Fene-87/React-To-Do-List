@@ -1,4 +1,4 @@
-# Math Magicians
+# React Todo List
 <a name="readme-top"></a>
 
 <!-- TABLE OF CONTENTS -->
@@ -18,7 +18,7 @@
 
 # 📖 Math Magicians <a name="about-project"></a>
 
-**Math Magicians** is a project whereby I get to develop a react SPA (Single Page Application) for all fans of mathematics. It allows users to make simple calculations as well as reading random math related quotes.
+**React Todo List** is a project aimed for practice with react. The app allows users to add new tasks, edit the tasks, and delete tasks. Users can also mark tasks as completed.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -42,8 +42,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **A Calculator**
-- **Random Math-related quotes**
+- **A Todo List**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
