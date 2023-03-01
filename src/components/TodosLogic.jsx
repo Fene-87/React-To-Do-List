@@ -4,6 +4,7 @@ import InputTodo from '@/components/InputTodo';
 import TodosList from '@/components/TodosList';
 
 const TodosLogic = () => {
+  // eslint-disable-next-line no-use-before-define
   const [todos, setTodos] = useState(getInitialTodos());
 
   function getInitialTodos() {
@@ -31,6 +32,7 @@ const TodosLogic = () => {
 
   const delTodo = (id) => {
     setTodos([
+      // eslint-disable-next-line arrow-body-style
       ...todos.filter((todo) => {
         return todo.id !== id;
       }),
